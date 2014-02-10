@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="pick.svg"
+   inkscape:export-filename="C:\Users\Owen\Desktop\TheVectorPack\assets\minecraft\textures\alternates\winter\stone_pickaxe.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360">
+  <defs
+     id="defs2987">
+    <linearGradient
+       id="linearGradient5806"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#70e7ee;stop-opacity:1;"
+         offset="0"
+         id="stop5808" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       id="perspective3043" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.392433"
+     inkscape:cx="2.7606211"
+     inkscape:cy="7.6040263"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:snap-page="true"
+     inkscape:window-width="1362"
+     inkscape:window-height="739"
+     inkscape:window-x="-4"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#bb7b23;fill-opacity:1;stroke:none"
+       id="rect4104"
+       width="13.048345"
+       height="0.89077169"
+       x="-7.2894359"
+       y="10.750197"
+       ry="0"
+       transform="matrix(0.69988386,-0.71425667,0.69269763,0.72122812,0,0)" />
+    <path
+       style="fill:#94edf2;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;fill-rule:nonzero"
+       d="M 11.435877,3.7040432 9.4608784,2.6846893 7.1354776,3.3854951 5.4790274,3.6721884 5.89314,2.9713826 8.1866863,1.9201738 11.881844,1.729045 12.58265,2.6209797 z"
+       id="path5251"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#94edf2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 12.029429,4.2445191 13.161958,6.0101432 12.598164,8.2084671 12.408648,9.7610438 13.083916,9.3333698 13.999279,7.1425402 13.974514,3.707274 13.043468,3.1140779 z"
+       id="path5251-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#6ee9f0;fill-opacity:1;stroke:none"
+       d="M 12.511789,2.6209797 13.028617,3.1306566 12.063871,4.2774298 11.340312,3.6721884 z"
+       id="path5797"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#6ee9f0;fill-opacity:1;stroke:none;opacity:0.50000000000000000"
+       d="M 11.990735,3.226221 12.439303,3.696692 11.601976,4.7552519 10.973982,4.1965675 z"
+       id="path5797-0"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

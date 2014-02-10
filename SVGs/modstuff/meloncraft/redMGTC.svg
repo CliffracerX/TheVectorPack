@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="redMGTC.svg"
+   inkscape:export-filename="C:\Users\Owen\workspace\VectorCustomizer\src\TheVectorPack\mods\MelonCraft\textures\blocks\redMGTC.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360">
+  <defs
+     id="defs2987">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       id="perspective3043" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.392433"
+     inkscape:cx="3.3441809"
+     inkscape:cy="7.5987608"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:snap-page="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="742"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#d48700;fill-opacity:1;stroke:none"
+       id="rect9138"
+       width="1.2423376"
+       height="7.3584614"
+       x="7.4221706"
+       y="8.6415386" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff5555;fill-opacity:1;stroke:none"
+       id="path9140"
+       sodipodi:sides="12"
+       sodipodi:cx="8.4415245"
+       sodipodi:cy="7.5903301"
+       sodipodi:r1="1.7239898"
+       sodipodi:r2="2.0782435"
+       sodipodi:arg1="2.0509714"
+       sodipodi:arg2="2.3127708"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.02"
+       inkscape:randomized="0.25"
+       d="M 7.5933464,9.545657 C 7.5795027,9.5332926 7.3612729,9.0262302 7.3571077,9.009977 7.3529425,8.9937238 7.1563763,7.1990649 7.1500177,7.1841078 7.1436591,7.1691506 7.3009943,6.8978572 7.3116908,6.8848789 7.3223873,6.8719005 7.6963568,5.7236846 7.7146104,5.7161837 7.7328641,5.7086828 8.673635,5.392278 8.6923666,5.3947982 c 0.018732,0.00252 0.656992,0.1754675 0.6670974,0.1874405 0.010106,0.011973 0.2806989,1.0236406 0.2912043,1.040589 0.010505,0.016948 0.1431339,1.2134856 0.151055,1.2311923 0.00792,0.017707 -0.1557373,0.2813567 -0.1616731,0.2992289 -0.00594,0.017872 -0.4439735,0.6816449 -0.4589379,0.689075 -0.014965,0.00743 -0.904185,0.9222927 -0.9217212,0.9160622 C 8.2418549,9.7521557 7.6071902,9.5580215 7.5933464,9.545657 z"
+       inkscape:transform-center-x="-0.0037743163"
+       inkscape:transform-center-y="0.048712443"
+       transform="translate(-0.19112886,0.12741924)" />
+  </g>
+</svg>
