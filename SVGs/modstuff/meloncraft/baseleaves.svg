@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="melonplanks.svg"
+   inkscape:export-filename="C:\Users\Cliffie\Desktop\ForgeMCP1.6.4\forge\mcp\jars\resourcepacks\TheVectorPack\assets\meloncraft\textures\blocks\melonPlanks.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360">
+  <defs
+     id="defs2987">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       id="perspective3043" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.392433"
+     inkscape:cx="10.078269"
+     inkscape:cy="10.865061"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:snap-page="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#ccff00;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 8.8237825,0 9.078621,6.5391213 13.156037,8.9600869 16,8.100007 16,6.0294444 13.219746,5.9657347 11.849989,1.4423517 10.86249,0 z"
+       id="path4433"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ccff00;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 9.1104758,5.7427511 5.0649148,2.8758181 2.1661271,0 0,0 0,12.910083 6.4983813,11.317343 z"
+       id="path4435"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ccff00;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 8.4096699,7.2399272 10.735071,11.189924 11.690715,12.400406 12.773779,16 9.0149113,16 7.7725737,12.750809 5.1604793,11.062504 z"
+       id="path4437"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ccff00;stroke:none"
+       d="M 3.678547,1.4437479 8.1148381,2.5966965 9.6463502,2.7783392 12.955809,4.5609177 10.295381,7.2163295 7.1207314,5.7942743 4.0792748,6.4446229 z"
+       id="path4437-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ccff00;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 12.901198,8.5141196 C 12.964908,9.4060543 14.30281,16 14.30281,16 L 16,16 16,13.451615 14.780632,13.292341 15.003616,2.8121085 16,1.5379161 16,0 13.888697,0 13.283456,2.7165441 z"
+       id="path4457"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ccff00;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 6.0205592,11.444762 1.6883049,16 0,16 0,14.598388 4.6189475,11.221778 z"
+       id="path4459"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

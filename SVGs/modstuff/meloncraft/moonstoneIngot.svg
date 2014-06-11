@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="moonstonePick.svg"
+   inkscape:export-filename="C:\Users\Cliffie\Desktop\ForgeMCP1.6.4\forge\mcp\jars\resourcepacks\TheVectorPack\assets\meloncraft\textures\items\moonstonePick.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360">
+  <defs
+     id="defs2987">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-0.54153178 : 14.562091 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="15.235485 : 15.358461 : 1"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       id="perspective3043" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.392433"
+     inkscape:cx="5.3214577"
+     inkscape:cy="5.22322"
+     inkscape:current-layer="g6141"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:snap-page="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       sodipodi:type="inkscape:box3d"
+       style="fill:#cc00ff;fill-opacity:1;stroke:none"
+       id="g6141"
+       inkscape:perspectiveID="#perspective3043"
+       inkscape:corner0="0.67410242 : 0.0039313171 : 0 : 1"
+       inkscape:corner7="-0.086765583 : 0.0031751517 : 0.31214931 : 1"
+       inkscape:transform-center-x="-0.3185481"
+       inkscape:transform-center-y="-0.66895102">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path6151"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="13"
+         d="M 4.5606243,5.0539399 8.8115233,8.0666627 10.447937,6.1752166 6.2382316,4.3605092 z"
+         transform="translate(0.12741924,1.5927405)" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path6143"
+         style="fill:#353564;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="6"
+         d="m 4.5606243,4.6022558 0,0.4516841 1.6776073,-0.6934307 0,-0.3806997 z"
+         transform="translate(0.12741924,1.5927405)" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path6153"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="11"
+         d="m 6.2382316,3.9798095 4.2097054,1.5783225 0,0.6170846 -4.2097054,-1.8147074 z"
+         transform="translate(0.12741924,1.5927405)" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path6145"
+         style="fill:#dd55ff;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="5"
+         d="M 4.5606243,4.6022558 8.8115233,7.2386547 10.447937,5.558132 6.2382316,3.9798095 z"
+         transform="translate(0.12741924,1.5927405)" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path6149"
+         style="fill:#cc00ff;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="14"
+         d="m 8.8115233,7.2386547 0,0.828008 1.6364137,-1.8914461 0,-0.6170846 z"
+         transform="translate(0.12741924,1.5927405)" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path6147"
+         style="fill:#aa00d4;fill-rule:evenodd;stroke:none"
+         inkscape:box3dsidetype="3"
+         d="m 4.5606243,4.6022558 4.250899,2.6363989 0,0.828008 -4.250899,-3.0127228 z"
+         transform="translate(0.12741924,1.5927405)" />
+    </g>
+  </g>
+</svg>

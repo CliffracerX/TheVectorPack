@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="melonwool.svg"
+   inkscape:export-filename="C:\Users\Owen\workspace\VectorCustomizer\src\TheVectorPack\mods\MelonCraft\textures\blocks\melonDirt.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360">
+  <defs
+     id="defs2987">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       id="perspective3043" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.392433"
+     inkscape:cx="3.4122063"
+     inkscape:cy="7.2120707"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:snap-page="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#a0842c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3010"
+       width="16"
+       height="16"
+       x="0"
+       y="0" />
+    <path
+       style="fill:#786521;stroke:none;fill-opacity:1"
+       d="M 1.6245953,-1.4005255 1.9431434,-2.1253871 3.4084647,1.4083131 3.3447551,3.6735056 4.1092705,11.103336 3.5995936,17.763004 2.7713685,18.578472 2.8669329,17.083445 3.2173358,13.95748 1.7838694,11.782895 1.4016117,6.844775 0.86007988,2.8127326 z"
+       id="path3012"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#786521;stroke:none;fill-opacity:1"
+       d="m 8.6776251,0.15948352 -0.405993,-0.63127986 -1.867566,3.07748944 0.081199,1.9727496 -0.9743824,6.4706183 0.6495882,5.799886 1.0555807,0.710189 -0.121797,-1.302016 -0.446592,-2.722392 1.826967,-1.893841 0.487191,-4.3005946 0.690188,-3.5114946 z"
+       id="path3012-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#786521;stroke:none;fill-opacity:1"
+       d="m 12.415881,-1.2872657 -0.26858,-0.7248616 -1.235468,3.5337002 0.05372,2.2651927 -0.644592,7.4298304 0.429728,6.659667 0.698309,0.815468 -0.08057,-1.495027 -0.295438,-3.125965 1.208606,-2.174584 0.322297,-4.9381201 0.456585,-4.0320425 z"
+       id="path3012-6"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
